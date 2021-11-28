@@ -41,8 +41,8 @@ public class TestCaseYandex extends BaseTestGeneral {
 
         Thread.sleep(8000);
 
-        //       new AddMailPageLiderTest(driver)
-        //         .submitNotNow();
+        /*//       new AddMailPageLiderTest(driver)
+        //         .submitNotNow();*/
 
 
     }
